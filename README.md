@@ -3,9 +3,9 @@
 # terraform-aws-vpc-peering [![Latest Release](https://img.shields.io/github/release/cloudposse/terraform-aws-vpc-peering.svg)](https://github.com/cloudposse/terraform-aws-vpc-peering/releases/latest) [![Slack Community](https://slack.cloudposse.com/badge.svg)](https://slack.cloudposse.com)
 <!-- markdownlint-restore -->
 
-[![README Header][readme_header_img]][readme_header_link]
+<!-- [![README Header][readme_header_img]][readme_header_link] -->
 
-[![Cloud Posse][logo]](https://cpco.io/homepage)
+<!--[![Cloud Posse][logo]](https://cpco.io/homepage) -->
 
 <!--
 
